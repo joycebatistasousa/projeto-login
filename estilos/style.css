@@ -1,5 +1,13 @@
 @charset "UFT-8";
 
+/*Pesquisar sobre 
+ float: right;
+ box-sizing: border-box;
+ overflow: hidden;
+ transition-timing-function: ease;
+ display: block;
+*/
+
 /* Mobile first 
    Paleta de cores
    Verde: #49a09d
@@ -53,4 +61,13 @@ section#login > div#imagem {
 section#login > div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
 }
